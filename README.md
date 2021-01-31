@@ -8,6 +8,8 @@
 ## General info
 This project is simple bootstraped form with ML API which connects to machine learning model
 and returns a response from ML model. The model file is in the research folder.	
+App collects information about the borrower and decides whether the creditworthiness is good enough.
+Maximum loan amount: 20 000$ :)
 
 ## Main Technologies
 Project is created with:
