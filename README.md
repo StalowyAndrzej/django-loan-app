@@ -22,5 +22,26 @@ Project is created with:
 To run this project:
 
 ```
+$ cd app
 $ docker-compose build up -d
+```
+
+To build image:
+```
+$ docker-compose build
+```
+
+To run the container:
+```
+$ docker-compose up -d
+```
+
+To stop the container:
+```
+$ docker-compose stop
+```
+
+To bring down the container:
+```
+$ docker-compose down
 ```
