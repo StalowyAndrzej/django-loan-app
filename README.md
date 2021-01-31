@@ -24,7 +24,6 @@ Project is created with:
 To run this project:
 
 ```
-$ cd app
 $ docker-compose build up -d
 ```
 
